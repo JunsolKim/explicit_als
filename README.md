@@ -13,6 +13,8 @@ This repository presents the ALS (alternate least square) algorithm, which can b
   - We trained the model using MovieLens 1M (train:test=90:10). The correlation between predicted and observed ratings is as follows.
   - Pearson correlation: 0.519
   - MSE: 1.138
+
+
 ![image](https://user-images.githubusercontent.com/13177827/203416468-4ddc3d5e-0fcd-4381-bb48-d98cff1852d7.png)
 
 
