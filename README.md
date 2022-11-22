@@ -1,6 +1,6 @@
 # explicit_als
 
-This repository presents the ALS (alternate least square) algorithm, which can be used for collaborative filtering based on "explicit feedbacks (e.g., ratings)," rather than implicit feedbacks (e.g., clicks). The model predicts whether users are likely to rate items positively or negatively.
+This notebook presents the ALS (alternate least square) algorithm, which can be used for collaborative filtering based on "explicit feedbacks (e.g., ratings)," rather than implicit feedbacks (e.g., clicks). The model predicts whether users are likely to rate items positively or negatively.
 
 ## Description
   - The model is similar to the one proposed in "Collaborative Filtering for Implicit Feedback Datasets (Hu et al., 2008)." We decompose the user-item rating matrix P (element p ui represents a user U's rating of an item I) into the dot product of two latent matrices X and Y.
